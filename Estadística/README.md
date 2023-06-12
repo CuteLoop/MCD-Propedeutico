@@ -1,8 +1,7 @@
 ## La dirección en la que besamos
 
 Hay un [artículo]([/guides/content/editing-an-existing-page](https://www.nature.com/articles/s41598-017-04942-9)) publicado en nature en 2017 y 2023 que estudia 
-si los humanos tendemos a inclinar la cabeza en una dirección preferente cuando nos besamos. Aprovecharemos este estudio titulado: "The right way to kiss: directionality bias in head-turning during kissing" (2017), "Adult persistence of head-turning asymmetry (2003)
-A neonatal right-side preference makes a surprising romantic reappearance later in life"
+si los humanos tendemos a inclinar la cabeza en una dirección preferente cuando nos besamos. Aprovecharemos este estudio titulado: "The right way to kiss: directionality bias in head-turning during kissing" (2017), "Adult persistence of head-turning asymmetry A neonatal right-side preference makes a surprising romantic reappearance later in life" (2003)
 
 ## preguntas que nos podemos hacer inicialmente
 - ¿Tenemos una preferencia por la dirección en la que inclinamos nuestra cabeza?
