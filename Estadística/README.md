@@ -40,7 +40,7 @@ Si $X_1, X_2, \dots, X_n, \dots $ son muestras aleatorias extraídas de una pobl
 
 El intervalo de confianza para una proporción p, puede calcularse como:
 
-$$ P(\hat p - Z_{1- \alpha /2} \sqrt{\frac{\hat p (1- \hat p)}{n}} \leq p \leq \hat p + Z_{1- \alpha /2} \sqrt{\frac{\hat p (1- \hat p)}{n}})  = 1-\alpha $$
+$$ P \left( \hat p - Z_{1- \alpha /2} \sqrt{\frac{\hat p (1- \hat p)}{n}} \leq p \leq \hat p + Z_{1- \alpha /2} \sqrt{\frac{\hat p (1- \hat p)}{n}} \right)  = 1-\alpha $$
 
 
 
