@@ -10,6 +10,5 @@ si los humanos tendemos a inclinar la cabeza en una dirección preferente cuando
 Sea p el número de parejas que inclinan su cabeza hacia la derecha al besar. Buscamos estimar p partiendo de datos que nos describen la dirección en la que besan n parejas besandose.
 
 
-Trabajaremos con datos de besos de parejas, anotando con 1 si la pareja besa a la izquierda y con 0 si besa a la derecha. 
-
 ## Modelado
+Modelaremos este problema con una distribución binomial, pensando en cada beso como un experimentos de Bernoulli anotando con 1 si la pareja besa a la izquierda y con 0 si besa a la derecha.
