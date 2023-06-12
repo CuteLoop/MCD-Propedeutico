@@ -33,7 +33,12 @@ $$\hat p = 80/124 =64.5% $$
 
 
 ## Análisis.
-Utilizaremos la Ley de números grandes y el teorema central del límite.
+Utilizaremos la Ley de números grandes, que dice que si tenemos una sucesión de variables aleatorias con el mismo valor esperado y la misma varianza su promedio converge en probabilidad a su valor esperado.
+
+y el teorema central del límite, que nos dice que la distribución de medias muestrales 
+Si $X_1, X_2, \dots, X_n, \dots $ son muestras aleatorias extraídas de una población con Valor esperado global. $\mu$ y varianza finita. $\sigma^2$, y si $\bar{X}_n$ es la media muestral de las primeras $n$ muestras, entonces la forma límite de la distribución, $$Z=\lim_{n \to \infty}  \frac{\bar{X}_n-\mu}{\sigma_\bar{X}$$, con $\sigma_\bar{X}=\sigma/\sqrt{n}$, es una distribución normal estándar.
+
+
 
 
 
