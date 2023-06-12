@@ -13,12 +13,27 @@ Sea p  la proporción de las parejas que inclinan su cabeza hacia la derecha al 
 ## Modelado
 Modelaremos este problema con una distribución binomial, pensando en cada beso como un experimentos de Bernoulli anotando con 1 si la pareja besa a la izquierda y con 0 si besa a la derecha. 
 
-# Datos
+## Datos
 De 124 parejas besándose, 80 (64.5%) inclinaron su cabeza a la derecha and 44 (35.5%)
 se inclinaron a su izquierda.
 
+Sea $R_i \in {0,1}$ el resultado de la i-ésima medición. Definiremos el estimador de la proporción p como la media muestral:
+
+$$  \hat p = \frac{1}{n}  \sum_{i=1}^n R_i$$
+
 $$\hat p = 80/124 =64.5% $$
 
+
+## Suposiciones
+1. Cada $R_i$ es una variable aleatoria del tipo de Bernoulli con parametro p.
+2. Las mediciones $R_1, R_2 ,...,R_n$ son mutuamente independientes.
+## ¿Tienen sentido estas suposiciones?
+1. Estamos modelando con variables aleatorias nuestra falta de información de lo que sucede en la cabeza de las parejas. Este experimento al tener dos posibles resultados es una variable aleatoria de Bernoulli, Sin embargo es una *fuerte* suposición decir que todas los experimentos mantienen el mismo parámetro p. ¿Podemos justificar que nuestras mediciones provienen del mismo proceso?
+2. La independencia es razonable, ya que las mediciones se realizaron en distinos lugares y tiempos.
+
+
+## Análisis.
+Utilizaremos la Ley de números grandes y el teorema central del límite.
 
 
 
