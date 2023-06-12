@@ -49,6 +49,7 @@ El cual calculamos con un nivel de confianza de 95%, para obtener una
 cota inferior = 0.5542
 cota superior = 0.7290
 
+Con este resultado podemos concluir con 95% de confianza que más de la mitad de la población se inclina hacia la derecha al besar.
 
 
 
