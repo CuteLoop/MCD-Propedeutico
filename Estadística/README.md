@@ -41,7 +41,7 @@ y el teorema central del límite, que nos dice que la distribución de medias mu
 
 - $E[x] = \mu$, entonces $E[\bar{x}]=\mu$
 - $Var[x] = \sigma^{2}$, entonces $Var[\bar{x}]=\frac{Var[x]}{N}$
-- implicando$\sigma [\bar{x}]=\frac{\sigma[x]}{\sqrt(N)}$ 
+- $\sigma [\bar{x}]=\frac{\sigma[x]}{\sqrt(N)}$ 
 
 El intervalo de confianza para la estimación de una proporción p, puede estimarse utilizando el teorema central del límite. La distribución de la media muestral se distribuye normalmente. El intervalo de confianza para una proporción p es:
 
