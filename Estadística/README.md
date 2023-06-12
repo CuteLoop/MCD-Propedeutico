@@ -42,5 +42,10 @@ El intervalo de confianza para una proporción p, puede calcularse como:
 
 $$ P \left( \hat p - Z_{1- \alpha /2} \sqrt{\frac{\hat p (1- \hat p)}{n}} \leq p \leq \hat p + Z_{1- \alpha /2} \sqrt{\frac{\hat p (1- \hat p)}{n}} \right)  = 1-\alpha $$
 
+El cual calculamos con un nivel de confianza de 95%, para obtener una
+
+cota inferior = 0.5542
+cota superior = 0.7290
+
 
 
