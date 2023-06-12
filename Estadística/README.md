@@ -38,7 +38,9 @@ Utilizaremos la Ley de números grandes, que dice que si tenemos una sucesión d
 y el teorema central del límite, que nos dice que la distribución de medias muestrales 
 Si $X_1, X_2, \dots, X_n, \dots $ son muestras aleatorias extraídas de una población con Valor esperado global. $\mu$ y varianza finita. $\sigma^2$, y si $\bar{X}_n$ es la media muestral de las primeras $n$ muestras, entonces la forma límite de la distribución, $$Z=\lim_{n \to \infty}  \frac{\bar{X}_n-\mu}{\sigma_\bar{X}$$, con $\sigma_\bar{X}=\sigma/\sqrt{n}$, es una distribución normal estándar.
 
+El intervalo de confianza para una proporción p, puede calcularse como:
 
+$$ P(\hat p - Z_{1- \alpha /2} \sqrt{\frac{\hat p (1- \hat p)}{n}} \leq p \leq \hat p + Z_{1- \alpha /2} \sqrt{\frac{\hat p (1- \hat p)}{n}})  = 1-\alpha $$
 
 
 
