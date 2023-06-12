@@ -8,7 +8,7 @@ si los humanos tendemos a inclinar la cabeza en una dirección preferente cuando
 
 ## Planteamiento del problema
 Sea p  la proporción de las parejas que inclinan su cabeza hacia la derecha al besar. Buscamos estimar p partiendo de datos que nos describen la dirección en la que besan n parejas besandose.
-
+Para responder a la pregunta: ¿Los humanos, tenemos una dirección preferencial en la que inclinamos la cabeza al besarnos en pareja?
 
 ## Modelado
 Modelaremos este problema con una distribución binomial, pensando en cada beso como un experimentos de Bernoulli anotando con 1 si la pareja besa a la izquierda y con 0 si besa a la derecha. 
