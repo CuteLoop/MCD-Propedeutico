@@ -55,4 +55,10 @@ cota superior = 0.7290
 Con este resultado podemos concluir con 95% de confianza que más de la mitad de la población se inclina hacia la derecha al besar.
 
 
+## Más pregutnas
+- ¿Qué alternativas tenemos a suponer que el proceso de besar es el mismo para todas las personas?¿Tenemos alguna manera de justificar esa suposición?
+- Diseñemos un nuevo experimento: Seguiremos los besos de un individuo a lo largo de su vida y con un dispositivo contaremos cuantas veces se inclinó hacia la derecha.
+
+
+
 
