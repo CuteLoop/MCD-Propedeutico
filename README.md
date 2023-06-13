@@ -2,7 +2,7 @@
 Aquí organizaré mis tareas del curso propedéutico de la maestría en ciencia de datos
 
 
-## Tareas
+## Proyectos
 
 - [Matemáticas: Redes Neuronales](https://github.com/CuteLoop/MCD-Propedeutico/tree/main/Matem%C3%A1ticas)
 - [Programación: Índice de marginalización en municipios mexicanos](https://github.com/CuteLoop/MCD-Propedeutico/tree/main/Programaci%C3%B3n)
