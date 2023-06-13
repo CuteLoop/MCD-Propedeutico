@@ -1,6 +1,6 @@
 ## La dirección en la que besamos
 
-Hay un [artículo]([/guides/content/editing-an-existing-page](https://www.nature.com/articles/s41598-017-04942-9)) publicado en nature en 2017 y 2023 que estudia 
+Hay un [artículo]([/guides/content/editing-an-existing-page](https://www.nature.com/articles/s41598-017-04942-9)) publicado en nature en 2017 y 2003 que estudia 
 si los humanos tendemos a inclinar la cabeza en una dirección preferente cuando nos besamos. Aprovecharemos este estudio titulado: "The right way to kiss: directionality bias in head-turning during kissing" (2017), "Adult persistence of head-turning asymmetry A neonatal right-side preference makes a surprising romantic reappearance later in life" (2003).
 
 
@@ -58,6 +58,18 @@ Con este resultado podemos concluir con 95% de confianza que más de la mitad de
 ## Más pregutnas
 - ¿Qué alternativas tenemos a suponer que el proceso de besar es el mismo para todas las personas?¿Tenemos alguna manera de justificar esa suposición?
 - Diseñemos un nuevo experimento: Seguiremos los besos de un individuo a lo largo de su vida y con un dispositivo contaremos cuantas veces se inclinó hacia la derecha.
+
+
+Referencias:
+
+- "The right way to kiss: directionality bias in head-turning during kissing" (2017),
+ 
+- "Adult persistence of head-turning asymmetry A neonatal right-side preference makes a surprising romantic reappearance later in life" (2003).
+
+
+- MIT open courseware statistics and applications for mathematics https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/
+
+
 
 
 
