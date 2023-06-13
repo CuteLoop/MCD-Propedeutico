@@ -7,3 +7,7 @@
 - un proyecto de Google cloud existente
 
 
+
+ver [enlace](https://github.com/CuteLoop/MCD-Propedeutico/blob/main/bases-datos/mysql_python_connector.ipynb)
+
+
