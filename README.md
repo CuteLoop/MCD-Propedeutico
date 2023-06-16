@@ -1,5 +1,5 @@
 # MCD-Propedeutico
-Aquí organizaré mis tareas del curso propedéutico de la maestría en ciencia de datos
+Hola, soy Joel Maldonado y Aquí organizaré mis tareas del curso propedéutico de la maestría en ciencia de datos
 
 
 ## Proyectos
